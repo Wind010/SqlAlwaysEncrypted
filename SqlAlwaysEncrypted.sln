@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentMethodRepository", "PaymentMethodRepository\PaymentMethodRepository.csproj", "{752C1DEE-1514-443E-A349-55E646009461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentMethodRepository.Tests", "PaymentMethodRepository.Tests\PaymentMethodRepository.Tests.csproj", "{F7006482-AB60-41AF-9D70-C44CE2C1A070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752C1DEE-1514-443E-A349-55E646009461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752C1DEE-1514-443E-A349-55E646009461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752C1DEE-1514-443E-A349-55E646009461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752C1DEE-1514-443E-A349-55E646009461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7006482-AB60-41AF-9D70-C44CE2C1A070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7006482-AB60-41AF-9D70-C44CE2C1A070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7006482-AB60-41AF-9D70-C44CE2C1A070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7006482-AB60-41AF-9D70-C44CE2C1A070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646FA72C-9721-4452-BFDD-5C756E10F1AC}
+	EndGlobalSection
+EndGlobal
